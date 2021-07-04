@@ -1,2 +1,3 @@
-# DoS tool
-This is a simple dos python tool. its easy to setup. 
+# DoS script
+
+This is a simple dos script created on python.
